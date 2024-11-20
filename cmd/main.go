@@ -8,4 +8,5 @@ func main() {
 	fmt.Println("fast-forward Merge")
 	fmt.Println("123")
 	fmt.Println("Я пришёл из ветки Master")
+	fmt.Println("Я пришёл из ветки MergeConflict")
 }
